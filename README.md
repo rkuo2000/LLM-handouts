@@ -1,6 +1,7 @@
 # LLM-handouts
 * **[AI lecture](https://rkuo2000.github.io/AI-course/)**
 * **[GenAI sample codes](https://github.com/rkuo2000/GenAI)**
+* **[EdgeAI-MCU lecture](https://rkuo2000.github.io/EdgeAI-course/)**
   
 ## Introduction
 1. [AI 簡介](https://rkuo2000.github.io/AI-course/lecture/2023/12/01/AI-Brief.html)
@@ -9,6 +10,7 @@
 
 ---
 ## LLM
+
 ### [Large Language Models](https://rkuo2000.github.io/AI-course/lecture/2024/03/21/LLM.html) 
 
 ### [Prompt Engineering](https://rkuo2000.github.io/AI-course/lecture/2024/03/21/Prompt-Engineering.html)
@@ -16,12 +18,15 @@
 ### [LLM Example Codes](https://github.com/rkuo2000/GenAI/tree/main/Text-to-Text)
 
 ---
+## EdgeAI
+### [EdgeAI-MCU](https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Capstone-Projects.htm)
+
+---
 ## VLM / MLLM
 
 ### [Vision Language Models](https://rkuo2000.github.io/AI-course/lecture/2024/03/27/VLM.html)
 
-### VLM sample codes
-[https://github.com/rkuo2000/GenAI/tree/main/Image-to-Text](https://github.com/rkuo2000/GenAI/tree/main/Image-to-Text)<br>
+### [VLM sample codes](https://github.com/rkuo2000/GenAI/tree/main/Image-to-Text)
 
 ---
 ## LLM Fine-Tuning
