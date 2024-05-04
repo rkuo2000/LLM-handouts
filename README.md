@@ -2,6 +2,7 @@
 * **[AI lecture](https://rkuo2000.github.io/AI-course/)**
 * **[GenAI sample codes](https://github.com/rkuo2000/GenAI)**
 * **[EdgeAI-MCU lecture](https://rkuo2000.github.io/EdgeAI-course/)**
+* **[【生成式AI導論 2024】] 李宏毅](https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI)**
   
 ## Introduction
 ### [AI 簡介](https://rkuo2000.github.io/AI-course/lecture/2023/12/01/AI-Brief.html)
@@ -12,6 +13,7 @@
 ## LLM
 
 ### [Large Language Models](https://rkuo2000.github.io/AI-course/lecture/2024/03/21/LLM.html) 
+<iframe width="1152" height="649" src="https://www.youtube.com/embed/cCpErV7To2o?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI" title="【生成式AI導論 2024】第6講：大型語言模型修練史 — 第一階段: 自我學習，累積實力 (熟悉機器學習的同學從 15:00 開始看起即可)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### [Prompt Engineering](https://rkuo2000.github.io/AI-course/lecture/2024/03/21/Prompt-Engineering.html)
 
