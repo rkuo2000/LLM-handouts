@@ -71,3 +71,8 @@
 
 ---
 ## 7. [AI Agents](https://rkuo2000.github.io/AI-course/lecture/2024/05/05/AI-Agents.html)
+![](https://dl-staging-website.ghost.io/content/images/size/w1000/2024/04/unnamed---2024-04-17T155856.845-1.png)
+<iframe width="637" height="358" src="https://www.youtube.com/embed/sal78ACtGTc?list=PLOhHNjZItNnOoPxOF3dmq30UxYqFuxXKn" title="What&#39;s next for AI agentic workflows ft. Andrew Ng of AI Fund" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
