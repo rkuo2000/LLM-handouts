@@ -19,12 +19,12 @@
 ### [LLM Example Codes](https://github.com/rkuo2000/GenAI/tree/main/Text-to-Text)
 
 ### LLM prompting
-* `python LLM_prompting.py`
+* `python LLM_prompting.py` (on PC with GPU)
 * [colab_LLM_prompting.ipynb](https://github.com/rkuo2000/GenAI/blob/main/Text-to-Text/colab_LLM_prompting.ipynb) (on Colab T4)
 
 ### LLM Server & Client
-* `python llm_server.py` (on your PC's GPU)
-* `python post_text.py`  (on your PC's CPU)
+* `python llm_server.py` (on PC with GPU)
+* `python post_text.py`  (on PC with CPU)
 
 ### Colab's LLM Server & Client
 * [colab_pyNgrok_LLM_server](https://github.com/rkuo2000/GenAI/blob/main/Text-to-Text/colab_pyNgrok_LLM_Server.ipynb) (on Colab T4)<br>
