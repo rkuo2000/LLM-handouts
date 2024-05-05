@@ -1,4 +1,4 @@
-# LLM-handouts
+# LLM lecture
 * **[AI lecture](https://rkuo2000.github.io/AI-course/)**
 * **[GenAI sample codes](https://github.com/rkuo2000/GenAI)**
 * **[EdgeAI-MCU lecture](https://rkuo2000.github.io/EdgeAI-course/)**
