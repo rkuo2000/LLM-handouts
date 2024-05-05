@@ -44,10 +44,10 @@
 ### [EdgeAI-MCU](https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Capstone-Projects.htm)
 
 ---
-## 5. LLM Fine-Tuning
+## 5. [LLM FineTuning](https://rkuo2000.github.io/AI-course/lecture/2024/05/01/LLM-FineTuning.html)
 
 ---
-## 6. LLM RAG
+## 6. [RAG](https://rkuo2000.github.io/AI-course/lecture/2024/05/04/RAG.html)
 
 ---
 ## 7. [AI Agents](https://rkuo2000.github.io/AI-course/lecture/2024/05/05/AI-Agents.html)
