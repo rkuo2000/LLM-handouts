@@ -38,10 +38,52 @@
 ### [Vision Language Models](https://rkuo2000.github.io/AI-course/lecture/2024/03/27/VLM.html)
 
 ### [VLM sample codes](https://github.com/rkuo2000/GenAI/tree/main/Image-to-Text)
+**LLaVA server**:<br>
+![](https://github.com/rkuo2000/GenAI/blob/main/assets/LLaVA_Gradio_Server_UI.png?raw=true)
 
 ---
-## 4. EdgeAI
-### [EdgeAI-MCU](https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Capstone-Projects.htm)
+### post image+text to llava_server
+* `python llava_server.py` (server)<br>
+* `python post_imgtxt.py` (client)<br>
+#### Running VLM server
+* `python whisper_llava_server.py` (server)<br>
+
+#### Image & Audio
+**Download a picture:** Tainan_BeefSoup.jpg<br>
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/GenAI/blob/main/Image-to-Text/images/Tainan_BeefSoup.jpg?raw=true"></p>
+
+**Generate Audio file:** gTTS.mp3<br>
+* `python ../gTTS.py "這是什麼有名的台南美食?" zh` (TTS)<br>
+
+#### Send Image & Audio to VLM server
+* `python post_imgau.py` (client)<br>
+![](https://github.com/rkuo2000/GenAI/blob/main/assets/post_imgau.png?raw=true)
+
+---
+## 4. [EdgeAI-MCU](https://rkuo2000.github.io/EdgeAI-course/lecture/2024/03/01/Edge-AI-MCU-Capstone-Projects.html)
+
+### Edge-AI Development Boards（開發板）
+<table>
+<tr><th> AMB82-mini </th><th> Kneron KL520</th><th> Jetson Orin NX </th><th> RK3399-pro </th></tr>
+<tr>
+<td><img src="https://www.amebaiot.com/wp-content/uploads/2023/03/amb82_mini.png"></td>
+<td><img src="https://www.everfocus.com/upload/catalog_m/b098f7b0f63a26477cd2cb5d08eb12c0.png"></td>
+<td><img src="https://gcs.rimg.com.tw/g4/265/d35/playrobot-inc/d/4b/6e/22325013064558_792.png"></td>
+<td><img src="https://gcs.rimg.com.tw/g1/1/26/cb/22025731591883_229.jpg"></td>
+</tr>
+</table>
+
+### AMB82-mini
+`Audio recording & Video capturing + NN engine + WiFi & BLE/BT`<br>
+![](https://www.amebaiot.com/wp-content/uploads/2023/03/amb82_mini.png)
+
+---
+### AI Pin
+<iframe width="1273" height="716" src="https://www.youtube.com/embed/JA1CGnsKrSE" title="AI Pin 最新的AI科技有多蠢！？" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+### [Rabbit R1](https://www.rabbit.tech/)
+<iframe width="1042" height="586" src="https://www.youtube.com/embed/Hy2r7luwS10" title="First Look at Rabbit R1 AI Device" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ## 5. [LLM FineTuning](https://rkuo2000.github.io/AI-course/lecture/2024/05/01/LLM-FineTuning.html)
