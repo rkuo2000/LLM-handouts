@@ -60,8 +60,7 @@
 </table>
 
 ### AMB82-mini
-`Audio recording & Video capturing + NN engine + WiFi & BLE/BT`<br>
-![](https://www.amebaiot.com/wp-content/uploads/2023/03/amb82_mini.png)
+![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB832-mini-Portable-ChatGPT.jpg?raw=true)
 
 ---
 ## 5. [LLM FineTuning](https://rkuo2000.github.io/AI-course/lecture/2024/05/01/LLM-FineTuning.html)
