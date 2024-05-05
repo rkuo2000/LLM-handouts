@@ -78,10 +78,12 @@ For LLM Compression and Acceleration:<br>
   
 ---
 ## 6. [RAG](https://rkuo2000.github.io/AI-course/lecture/2024/05/04/RAG.html)
-* LlamaIndex
-* LLM Embedder
-* LangChain + VectorDB + LLM
-* 
+* [privateGPT](https://www.kaggle.com/code/rkuo2000/privategpt)
+* [LlamaIndex](https://www.kaggle.com/code/rkuo2000/llm-llamaindex)
+* [LLM Embedder](https://www.kaggle.com/code/rkuo2000/llm-flagembedding)
+* [EAGLE LLM[(https://www.kaggle.com/code/rkuo2000/eagle-llm)
+* [LangChain + ChromaDB + LLM](https://www.kaggle.com/code/rkuo2000/llm-langchain-chromadb)
+
 ---
 ## 7. [AI Agents](https://rkuo2000.github.io/AI-course/lecture/2024/05/05/AI-Agents.html)
 ![](https://dl-staging-website.ghost.io/content/images/size/w1000/2024/04/unnamed---2024-04-17T155856.845-1.png)
