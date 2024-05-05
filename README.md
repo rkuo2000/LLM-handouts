@@ -61,7 +61,7 @@
 </table>
 
 ### AMB82-mini
-![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB832-mini-Portable-ChatGPT.jpg?raw=true)
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB832-mini-Portable-ChatGPT.jpg?raw=true"></p>
 
 ---
 ## 5. [LLM FineTuning](https://rkuo2000.github.io/AI-course/lecture/2024/05/01/LLM-FineTuning.html)
