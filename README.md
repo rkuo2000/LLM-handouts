@@ -81,7 +81,7 @@ For LLM Compression and Acceleration:<br>
 * [privateGPT](https://www.kaggle.com/code/rkuo2000/privategpt)
 * [LlamaIndex](https://www.kaggle.com/code/rkuo2000/llm-llamaindex)
 * [LLM Embedder](https://www.kaggle.com/code/rkuo2000/llm-flagembedding)
-* [EAGLE LLM[(https://www.kaggle.com/code/rkuo2000/eagle-llm)
+* [EAGLE LLM](https://www.kaggle.com/code/rkuo2000/eagle-llm)
 * [LangChain + ChromaDB + LLM](https://www.kaggle.com/code/rkuo2000/llm-langchain-chromadb)
 
 ---
