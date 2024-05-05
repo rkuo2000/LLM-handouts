@@ -65,10 +65,23 @@
 
 ---
 ## 5. [LLM FineTuning](https://rkuo2000.github.io/AI-course/lecture/2024/05/01/LLM-FineTuning.html)
-
+For LLM Compression and Acceleration:<br>
+* LoRA - Low-Rank Adaptation
+* FlashAttention
+* PEFT - Parameter-Efficient Fine-Tuning
+* AWQ: Activation-aware Weight Quantization
+* GPTCache
+* AirLLM
+* PowerInfer
+* ReFT: Representation Finetuning
+* ORPO: Monolithic Preference Optimization without Reference Model
+  
 ---
 ## 6. [RAG](https://rkuo2000.github.io/AI-course/lecture/2024/05/04/RAG.html)
-
+* LlamaIndex
+* LLM Embedder
+* LangChain + VectorDB + LLM
+* 
 ---
 ## 7. [AI Agents](https://rkuo2000.github.io/AI-course/lecture/2024/05/05/AI-Agents.html)
 ![](https://dl-staging-website.ghost.io/content/images/size/w1000/2024/04/unnamed---2024-04-17T155856.845-1.png)
